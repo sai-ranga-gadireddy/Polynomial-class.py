@@ -1,3 +1,4 @@
+from copy import deepcopy
 class Polynomial:
     def __init__(self):
         self.capacity = 0
